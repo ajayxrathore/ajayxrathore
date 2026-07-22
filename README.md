@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ajay Rathore
 
-<!--
-**ajayxrathore/ajayxrathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building modern web applications with React and JavaScript.
 
-Here are some ideas to get you started:
+I enjoy transforming ideas into clean, maintainable, and responsive products while continuously improving my understanding of frontend architecture and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With
+
+ React  
+ JavaScript  
+ Redux Toolkit  
+ REST APIs  
+ Node.js  
+ MongoDB
+
+## Featured Work
+
+### Appointly
+Full-stack appointment scheduling platform focused on secure booking workflows and modular backend architecture.
+
+### ContentHub
+Content management platform supporting authentication, media uploads, and reusable React components.
+
+## Current Focus
+
+- Learning TypeScript
+- Improving React architecture
+- Performance Optimization
+- System Design Fundamentals
+
+## Let's Connect
+
+- LinkedIn: https://linkedin.com/in/ajayxrathore
+- Email: ajayrathoref@gmail.com
